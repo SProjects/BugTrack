@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php-console/php-console": "3.*",
+        "fzaninotto/faker": "1.5.*@dev",
+        "phpunit/phpunit": "4.2.*",
+        "phpunit/php-invoker": "*",
+        "phpunit/dbunit": ">=1.2",
+        "phpunit/phpunit-selenium": ">=1.2"
+    }
+}
