@@ -7,3 +7,16 @@
 .idea
 vendor
 composer.lock
+application/models/PhoneCarrierModelTest.php
+application/models/_template.php
+tests/models/PhoneCarrierModelTest.php
+tests/models/SomeModelTest.php
+tests/libs/SomeLibTest.php
+tests/helpers/HelperTest.php
+tests/controllers/CI_Unit_Test_class_Test.php
+tests/controllers/SomeControllerTest.php
+tests/fixtures/Controller_fixt.php
+tests/fixtures/view_fixt.php
+tests/fixtures/view_fixt2.php
+tests/fixtures/phone_carrier_fixt.yml
+
