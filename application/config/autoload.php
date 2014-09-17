@@ -98,6 +98,19 @@ $autoload['config'] = array();
 
 $autoload['language'] = array();
 
+/*
+| -------------------------------------------------------------------
+|  Auto-load Spark Files
+| -------------------------------------------------------------------
+| Prototype:
+|
+|	$autoload['sparks'] = array('example-spark/1.0.0');
+|
+|
+*/
+
+$autoload['sparks'] = array('DataMapper-ORM/1.8.2');
+
 
 /*
 | -------------------------------------------------------------------
